@@ -1,0 +1,2 @@
+# DCMotor-speed-control-and-Ultrasonic-sensor-integration-with-Raspberry-Pi-4
+This project demonstrates actuator and sensor interfacing using Raspberry Pi 4 Model B and Python.  The system includes:  ✅ DC Motor speed &amp; direction control using L298N Motor Driver Module  ✅ Distance measurement using HC-SR04 Ultrasonic Sensor  ✅ GPIO configuration using BCM numbering  ✅ PWM-based motor control  ✅ Real-time object detection
